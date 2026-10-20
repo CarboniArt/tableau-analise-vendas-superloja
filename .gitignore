@@ -1,0 +1,14 @@
+# Material de curso (direitos autorais) - não versionar
+*.pdf
+
+# Arquivos temporários e de backup do Tableau
+*.twbr
+*.tmp
+~$*
+*.bak
+Backups/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
